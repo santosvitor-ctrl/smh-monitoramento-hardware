@@ -1,0 +1,1 @@
+# smh-monitoramento-hardware
